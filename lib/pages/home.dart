@@ -61,7 +61,7 @@ class _HomeState extends State<Home> {
                 height: 70,
                 child: ElevatedButton(
                   onPressed: () {
-                    print('clicked 2');
+                    print('clicked 2 ');
                   },
                   child: Text(
                     'Journey Map Mode',
