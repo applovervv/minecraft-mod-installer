@@ -37,7 +37,7 @@ class _HomeState extends State<Home> {
                 height: 70,
                 child: ElevatedButton(
                   onPressed: () {
-                    print('clicked');
+                    print('clicked 1');
                   },
                   child: Text(
                     'Pokemon Mode',
@@ -61,7 +61,7 @@ class _HomeState extends State<Home> {
                 height: 70,
                 child: ElevatedButton(
                   onPressed: () {
-                    print('clicked');
+                    print('clicked 2');
                   },
                   child: Text(
                     'Journey Map Mode',
@@ -85,7 +85,7 @@ class _HomeState extends State<Home> {
                 height: 70,
                 child: ElevatedButton(
                   onPressed: () {
-                    print('clicked');
+                    print('clicked 3');
                   },
                   child: Text(
                     'Back Pack Mode',
