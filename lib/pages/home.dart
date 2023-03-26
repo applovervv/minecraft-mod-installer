@@ -9,7 +9,6 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   @override
-  @override
   Widget build(BuildContext context) {
     final String backgroundPath = 'assets/background_menu.png';
 
